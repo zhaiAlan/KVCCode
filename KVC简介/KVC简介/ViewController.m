@@ -57,7 +57,7 @@
 //    [self arrayOperator];
 //    [self arrayNesting];
 //    [self setNesting];
-//    [self arrayDemo];
+    [self arrayDemo];
     
      //4:KVC - 访问非对象属性
     ThreeFloats floats = {1., 2., 3.};
